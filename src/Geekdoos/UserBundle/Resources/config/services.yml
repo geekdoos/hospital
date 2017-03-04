@@ -1,0 +1,4 @@
+services:
+#    geekdoos_user.example:
+#        class: Geekdoos\UserBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

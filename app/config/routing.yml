@@ -1,0 +1,9 @@
+geekdoos_user:
+    resource: "@GeekdoosUserBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+geekdoos_doctors:
+    resource: "@GeekdoosDoctorsBundle/Controller/"
+    type:     annotation
+    prefix:   /
